@@ -5,6 +5,11 @@
 
 ## 📘 Capítulo 3 - Estrutura Sequencial
 
+## 📌 Exercícios
+
+- [📘 Exercícios Resolvidos](./Exercicios-Resolvidos/)
+- [📗 Exercícios Propostos](./Exercicios-Propostos/)
+
 
 ## 📌 Exercícios Resolvidos
 
