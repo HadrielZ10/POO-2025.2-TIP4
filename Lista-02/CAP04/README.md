@@ -3,7 +3,7 @@
 Ana Fernanda Gomes Ascêncio & Edilene Aparecida Veneruchi de Campos  
 *(Algoritmos, Pascal, C/C++ (Padrão ANSI) e Java)*
 
-## 📘 Capítulo 3 - Estrutura Condicional
+## 📘 Capítulo 4 - Estrutura Condicional
 
 ## 📌 Exercícios
 
