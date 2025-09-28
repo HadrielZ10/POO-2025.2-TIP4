@@ -7,8 +7,8 @@ Ana Fernanda Gomes Ascêncio & Edilene Aparecida Veneruchi de Campos
 
 ## 📌 Exercícios
 
-- [📘 Exercícios Resolvidos](#exercícios-resolvidos)
-- [📗 Exercícios Propostos](#exercícios-propostos)
+- [📘 Exercícios Resolvidos](./Exercícios-Resolvidos/)
+- [📗 Exercícios Propostos](./Exercícios-Propostos/)
 
 ## 📌 Exercícios Resolvidos
 
