@@ -1,110 +1,38 @@
-# 📚 Repositório de Programação Orientada a Objetos
-### 💻 POO - 2025.2 - TIP4  
+# 📚 Livro
+**Fundamentos da Programação de Computadores**  
+Ana Fernanda Gomes Ascêncio & Edilene Aparecida Veneruchi de Campos  
+*(Algoritmos, Pascal, C/C++ (Padrão ANSI) e Java)*
 
-<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java logo"/>
-<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" alt="Eclipse IDE logo"/>
+## 📘 Capítulo 5 - Estrutura de Repetição
 
+## 📌 Exercícios
 
-![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow)
+- [📘 Exercícios Resolvidos](#exercícios-resolvidos)
+- [📗 Exercícios Propostos](#exercícios-propostos)
 
----
+## 📌 Exercícios Resolvidos
 
-## 📑 Sumário
-- [🎯 Objetivo](#-objetivo)  
-- [👥 Membros da Equipe](#-membros-da-equipe)  
-- [📂 Estrutura do Repositório](#-estrutura-do-repositório)  
-- [📚 Referência e Divisão dos Exercícios](#-referência-e-divisão-dos-exercícios)  
-- [📒 Divisão por Listas](#-divisão-por-listas)  
-- [🚀 Como Executar os Exercícios](#-como-executar-os-exercícios)  
-- [📌 Informações da Disciplina](#-informações-da-disciplina)  
-
----
-
-## 🎯 Objetivo
-
-Este repositório tem como objetivo principal armazenar e documentar o desenvolvimento das **listas de exercícios da disciplina de Programação Orientada a Objetos (POO)**, referente ao período letivo de **2025.2**, para a turma **S4**.  
-
-Aqui serão publicadas as resoluções das listas `Lista-01`, `Lista-02` e `Lista-03`, permitindo o acompanhamento do progresso e a consulta do código desenvolvido.
-
-**NOTA N1**
+| Nº   | Enunciado                                                                                     |
+|------|-----------------------------------------------------------------------------------------------|
+| Q01  | Um funcionário foi contratado em 2005 com salário inicial de R$1.000,00. Recebeu aumento anual, sendo 1,5% em 2006 e, a partir de 2007, o dobro do aumento do ano anterior. Calcule o salário atual. |
+| Q02  | Faça um programa que leia um valor N inteiro e positivo e calcule o valor de E = 1 + 1/1! + 1/2! + ... + 1/N!. |
+| Q03  | Leia um número N e, para cada valor, mostre uma tabela com o valor e seu fatorial. |
+| Q04  | Estatística de cinco cidades: leia código, número de veículos e acidentes. Mostre maior e menor índice de acidentes, média de veículos e média de acidentes nas cidades com menos de 2.000 veículos. |
+| Q05  | Leia número de termos e valor positivo X. Calcule a série S = -X² + X³ – X⁴ + X⁵ – ... conforme padrão de fatoriais. |
+| Q06  | Uma empresa possui 10 funcionários. Leia informações, calcule valor da hora, salário inicial, auxílio alimentação e salário final. Mostre todos os dados. |
+| Q07  | Monte os oito primeiros termos da sequência de Fibonacci. |
+| Q08  | Leia número de termos e determine valores da série: 2, 7, 3, 4, 21, 12, 8, 63, 48, ... |
+| Q09  | Receba duas notas de seis alunos, calcule médias, mostre situação (Reprovado, Exame, Aprovado), total de alunos em cada categoria e média da classe. |
+| Q10  | Campeonato de futebol: receba idade, peso e altura de 5 times com 11 jogadores cada. Calcule quantidade de jogadores com menos de 18 anos, médias de idade por time, média de altura geral e % de jogadores com mais de 80 kg. |
 
 ---
 
-## 👥 Membros da Equipe
+## 📌 Exercícios Propostos
 
-| 🧑 Nome Completo do Aluno      | 🎓 Matrícula      | 🌐 GitHub |
-| ------------------------------ | ---------------- | --------- |
-| José Hadriel M. dos Santos     | 20241321000043   | [@HadrielZ10](https://gthub.com/HadrielZ10) |
-| Fca. Mariane S. da Silva | 20241321000031 | [@Maryaanee](https://github.com/Maryaanee) |
-
----
-
-## 📂 Estrutura do Repositório
-
-POO-2025.2-TIP4/  
-├── Lista-01/  
-│   ├── Exercicios Resolvidos/  
-│   └── Exercicios Propostos/  
-├── Lista-02/  
-│   ├── Exercicios Resolvidos/  
-│   └── Exercicios Propostos/  
-├── Lista-03/  
-│   ├── Exercicios Resolvidos/  
-│   └── Exercicios Propostos/  
-└── README.md 
-
-- **[`/Lista-01`](./Lista-01/)** → 📘 Exercícios resolvidos e propostos da primeira lista.  
-- **[`/Lista-02`](./Lista-02/)** → 📗 Exercícios resolvidos e propostos da segunda lista.  
-- **[`/Lista-03`](./Lista-03/)** → 📙 Exercícios resolvidos e propostos da terceira lista.  
-
----
-
-## 📚 Referência e Divisão dos Exercícios
-
-**📖 Livro Utilizado:**  
-*Fundamentos da Programação de Computadores*  
-Autores: Ana Fernanda Gomes Ascêncio & Edilene Aparecida Veneruchi de Campos  
-*(Algoritmos, Pascal, C/C++ (Padrão ANSI) e Java)*  
-
----
-
-## 📒 Divisão por Listas
-
-- **LISTA-01** 📝  
-  - ✅ Exercícios 1º ao 10º (Resolvidos)  
-  - 🧩 Exercícios 1º ao 5º (Propostos)  
-  - 📘 Capítulo 03 → Estrutura Sequencial  
-
-- **LISTA-02** 📝  
-  - ✅ Exercícios 1º ao 10º (Resolvidos)  
-  - 🧩 Exercícios 1º ao 5º (Propostos)  
-  - 📗 Capítulo 04 → Estrutura Condicional  
-  - 📗 Capítulo 05 → Estrutura de Repetição  
-
-- **LISTA-03** 📝  
-  - ✅ Exercícios 1º ao 10º (Resolvidos)  
-  - 📙 Capítulo 06 → Vetor  
-  - 📙 Capítulo 08 → Sub-rotina  
-
----
-
-## 🚀 Como Executar os Exercícios
- 
-1. 🖥️ Abra o projeto na **IDE Eclipse**.  
-2. 🔎 Localize a classe `Principal.java` em cada questão.  
-3. ▶️ Execute a aplicação clicando em **Run**.  
-
----
-
-## 📌 Informações da Disciplina
-
-- 📘 **Disciplina:** Programação Orientada a Objetos (POO)  
-- 📅 **Período Letivo:** 2025.2  
-- 🏫 **Turma:** S4 - Integrado em Informática  
-- 👨‍🏫 **Professor:** Roger Sarmento  
-- ☕ **Linguagem Utilizada:** ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-- 🛠️ **IDE de Desenvolvimento:** ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)  
-
----
-
-✨ Este documento está sujeito a atualizações conforme o andamento da disciplina.
+| Nº   | Enunciado                                                                                     |
+|------|-----------------------------------------------------------------------------------------------|
+| Q01  | Leia cinco grupos de quatro valores (A, B, C, D), mostre na ordem lida e em ordem crescente/decrescente. |
+| Q02  | Companhia de teatro: calcule lucro esperado variando preço do ingresso de R$5,00 a R$1,00, com incrementos de R$0,50, mostrando lucro máximo e quantidade vendida. |
+| Q03  | Receba idade de oito pessoas. Mostre quantidade e porcentagem de pessoas em cada faixa etária. |
+| Q04  | Receba um número e mostre a tabuada dele de 0 a 10. |
+| Q05  | Mostre as tabuadas dos números de 1 a 10. |
